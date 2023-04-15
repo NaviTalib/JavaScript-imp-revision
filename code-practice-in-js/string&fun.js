@@ -40,7 +40,7 @@ let str2 = "New Delhi";
 //The split() method splits a string into an array of substrings.
 //The split() method returns the new array. The split() method does not change the original string ...
 
-console.log(str2.replace('New','Greater');)
+console.log(str2.replace('New','Greater'));
 
 
 
