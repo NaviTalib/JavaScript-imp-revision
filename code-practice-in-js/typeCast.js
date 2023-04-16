@@ -1,5 +1,5 @@
 typeCast= (x)=>{
-    // console.log((typeof Number(x))+":"+Number(x))  string to number type conversion
+ // console.log((typeof Number(x))+":"+Number(x))  string to number type conversion
 // console.log((typeof x)+":"+x.toString());  number to string type conversion
 //  console.log((typeof parseInt(x))+":"+parseInt(x));  used for converting string to number
 }
