@@ -1,0 +1,20 @@
+{
+  "name": "node-fs-module",
+  "version": "1.0.0",
+  "description": "fs module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaviTalib/JavaScript-imp-revision.git"
+  },
+  "author": "Navi Talib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaviTalib/JavaScript-imp-revision/issues"
+  },
+  "homepage": "https://github.com/NaviTalib/JavaScript-imp-revision#readme"
+}
